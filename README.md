@@ -6,4 +6,4 @@
 
 ### PD: Espero que se vea bien es que mi monitor es grande y tiene mucha resolución, he intentado poner el texto lo más grande posible, de todas formas puedes poner el vídeo a 2K, ya que está grabado en alta resolución (Recomiendo verlo a 1440p-60FPS). Un saludo.
 
-https://youtu.be/g5m5Ij_o3N4
+[![Ver el video](https://img.youtube.com/vi/g5m5Ij_o3N4/0.jpg)](https://youtu.be/g5m5Ij_o3N4)
